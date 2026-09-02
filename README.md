@@ -16,6 +16,7 @@ I learn by building projects — from full-stack applications and low-level HTTP
 
 My goal is to start my career in technology through a software engineering internship and grow toward AI Engineering over time.
 
+
 ### 🛠️ Tech Stack
 
 <p align="left">
@@ -39,7 +40,7 @@ My goal is to start my career in technology through a software engineering inter
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/eduardo-giomo-leme" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/eduardo-giomo-leme" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:giomo.leme@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -53,7 +54,11 @@ My goal is to start my career in technology through a software engineering inter
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GiomoLeme&bg_color=00000000&color=e83b41&line=e83b41&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=GiomoLeme&theme=tokyo-night&hide_border=true"
+    alt="Eduardo's GitHub activity graph"
+  />
 </p>
 
 ---
