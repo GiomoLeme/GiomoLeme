@@ -10,8 +10,10 @@
 
 ### 🚀 About Me
 
-UFABC undergraduate focused on Software Engineering, Backend Development, and Applied AI.  
-I learn by building projects — from full-stack applications and low-level HTTP servers to data analysis and AI education. I'm currently strengthening my foundations in software engineering, backend systems, databases, and artificial intelligence.  
+UFABC undergraduate focused on Software Engineering, Backend Development, and Applied AI.
+
+I learn by building projects — from full-stack applications and low-level HTTP servers to data analysis and AI education. I'm currently strengthening my foundations in software engineering, backend systems, databases, and artificial intelligence.
+
 My goal is to start my career in technology through a software engineering internship and grow toward AI Engineering over time.
 
 ### 🛠️ Tech Stack
